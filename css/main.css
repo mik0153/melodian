@@ -1,0 +1,211 @@
+
+/* Acero angelo codes*/
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.col.s12 > .btn {
+   width: 60%;
+}
+
+.section-section > .container{
+  min-height: 30px;
+}
+
+.section-recruit{
+    display: flex;
+}
+
+.recruit-row{
+    position: relative;
+    width: 100%;
+}
+
+.recruit-section > .container{
+    min-height: 300px;
+    vertical-align: middle;
+}
+
+.recruit-btn > .btn-large{
+    position: absolute;
+    width: 40%;
+    left:30%;
+}
+
+.col.s6 > .horizontal{
+    width: 100%;
+    min-height: 300px;
+}
+
+.flow{
+    min-height: 300px;
+    width: 10%;
+}
+
+.col.s6 > .workflow-image{
+    background-image: url("img/workflow.png");
+}
+
+.height-text{
+    margin-top: -40px;
+    font-weight: 700;
+    font: 20px arial, sans-serif;
+}
+
+.heighting-text{
+    margin-top: -30px
+}
+
+.heights-text{
+    font-weight: 900;
+    font: 50px arial, sans-serif;
+}
+
+.horizontal-text{
+    margin-top: -60px;
+}
+
+
+.first-section{
+    margin-left: 40px;
+}
+
+
+    .recruit-left{
+        float: left;
+        background-color: white;
+        width: 50%;
+        vertical-align: middle;
+        left: 0px;
+        overflow: hidden;
+    }
+
+    .recruit-right{
+        background-color: white;
+        width: 50%;
+        float: left;
+        vertical-align: middle;
+        left: 0px;
+        overflow: hidden;
+        
+    }
+
+    .vertical{
+          border-left: 55px solid #e62f3a;
+          height: 950px;
+          right: 0px;
+          margin-top: -1050px;
+    }
+
+    .horizontal{
+          border: 25px solid #e62f3a;
+          width: 1500px;
+          margin-top: -150px;
+    }
+
+    .recruit-read > .btn-large{
+    position: absolute;
+    width: 40%;
+    left:30%;
+    margin-top: 100px;
+    } 
+
+    .sub-recruit{
+      margin-top: -70px;
+      padding: 20px;
+    }
+
+    .recruit-bottom > h2{
+      padding: 40px;
+    }
+
+    .bg-melo{
+      background-color: #e62f3a;
+    }
+
+    .recruit-bottom{
+      background-color: #f0f0f0;
+    }
+
+    .back-color{
+      background-color: #f0f0f0;
+    }
+
+    .bg-text-color{
+        color: #e62f3a;
+    }
+
+    .card-contents{
+     padding: 110px;
+    }
+
+
+
+
+
+
+    .button1 {background-color: #00ccff; height: 4px; width: 25%;}
+    .button2 {background-color: #ff6633;}
+    .button3 {background-color: #993399;}
+    .button4 {background-color: #009999;}
+    .button5 {background-color: #ffcc00;}
+    .button6 {background-color: #b4b4b4;}
+
+
+
+@media screen and (max-width: 600px) {
+    .recruit-left-half {
+        float: left;
+        width: 100%;
+    }
+    .recruit-right-half {
+        float: left;
+        width: 100%;
+    }
+    .interview{
+      margin-top: 85px
+    }
+
+    .recruit-bottom{
+      background-color: white;
+    }
+
+    .resize-text{
+       color: black; font-size: 13.5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
