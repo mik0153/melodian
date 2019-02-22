@@ -1,0 +1,71 @@
+                        <div class="col s12 m3">
+                <div class="card-panel card-container">
+                    <div class="" style="margin: 0 auto; height: 100px; width: 100px; background-color: red">
+                        <!-- replace image here -->
+                    </div>
+                    <div>
+                        <p class="red-text text-darken-4">クラブ活動</p>
+                        <p class="red-text text-darken-4">CLUB ACTIVITIES</p>
+                        <p>
+                            ゴルフなどのクラブが盛んに行われており、５人以上の同好会に対してはクラブ活動の補助金制度を実施しております。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <div class="card-panel card-container">
+                    <div class="" style="margin: 0 auto; height: 100px; width: 100px; background-color: red">
+                        <!-- replace image here -->
+                    </div>
+                    <div>
+                        <p class="red-text text-darken-4">保養所完備</p>
+                        <p class="red-text text-darken-4">RECREATION FACILITY</p>
+                        <p>保養所が全国各地に充、保養所が全国各地に充実しており、
+                            保養所が全国各地に充実しており、社員であればどなたでも利用可能です。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col s12 m3">
+                <div class="card-panel card-container">
+                    <div class="" style="margin: 0 auto; height: 100px; width: 100px; background-color: red">
+                        <!-- replace image here -->
+                    </div>
+                    <div>
+                        <p class="red-text text-darken-4">寮・社宅完備断</p>
+                        <p class="red-text text-darken-4">COMPANY HOUSE</p>
+                        <p>
+                            規定条件をクリアすれば、寮・借り上げ社宅の利用が可能です。家賃については一定の割合で会社負担致します。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <div class="card-panel card-container">
+                    <div class="" style="margin: 0 auto; height: 100px; width: 100px; background-color: red">
+                        <!-- replace image here -->
+                    </div>
+                    <div>
+                        <p class="red-text text-darken-4">社内イベント</p>
+                        <p class="red-text text-darken-4">EVENT</p>
+                        <p>
+                            他部署とのコミュニケーションを目的とし、年に１～２回、各事業所ごとでボウリング大会を実施しております。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <div class="card-panel card-container">
+                    <div class="" style="margin: 0 auto; height: 100px; width: 100px; background-color: red">
+                        <!-- replace image here -->
+                    </div>
+                    <div>
+                        <p class="red-text text-darken-4">新年度会</p>
+                        <p class="red-text text-darken-4">NEWYEAR MEETING</p>
+                        <p>
+                            毎年４月に全社員が集まり、社長のご挨拶、表彰式、懇親会等を行っております。
+                        </p>
+                    </div>
+                </div>
+            </div>
